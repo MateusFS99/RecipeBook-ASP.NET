@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
+      "projectUniqueName": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
       "projectName": "RecipeBook-ASP.NET",
-      "projectPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
+      "projectPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
       "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET\\obj\\",
+      "outputPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
