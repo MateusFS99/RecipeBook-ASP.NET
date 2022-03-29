@@ -16,5 +16,7 @@ namespace RecipeBook_ASP.NET.Models
         public string titulo { get; set; }
 
         public string instrucoes { get; set; }
+
+        public IEnumerable<ReceitaIngrediente> ingredientes { get; set; }
     }
 }
