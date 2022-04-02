@@ -7,11 +7,11 @@ namespace RecipeBook_ASP.NET.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        public DbSet<Receita>? receitas { get; set; }
+        public DbSet<Receita> receitas { get; set; }
 
-        public DbSet<Ingrediente>? ingredientes { get; set; }
+        public DbSet<Ingrediente> ingredientes { get; set; }
 
-        public DbSet<ReceitaIngrediente>? receitasIngredientes { get; set; }
+        public DbSet<ReceitaIngrediente> receitasIngredientes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj": {}
+    "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj": {}
   },
   "projects": {
-    "d:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj": {
+    "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
+        "projectUniqueName": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
         "projectName": "RecipeBook-ASP.NET",
-        "projectPath": "d:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
+        "projectPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\RecipeBook-ASP.NET.csproj",
         "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-        "outputPath": "d:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\obj\\",
+        "outputPath": "D:\\Programação\\Projetos\\RecipeBook\\RecipeBook-ASP.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

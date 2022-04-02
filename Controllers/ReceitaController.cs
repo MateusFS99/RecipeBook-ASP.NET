@@ -4,7 +4,7 @@ using RecipeBook_ASP.NET.Data;
 namespace RecipeBook_ASP.NET.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
 
     public class ReceitaController : ControllerBase
     {
@@ -20,7 +20,7 @@ namespace RecipeBook_ASP.NET.Controllers
         {
             try
             {
-                var result = await _repo.GetAllReceitasAsync();
+                var result = await _repo.GetAllReceitasAsync(true);
 
                 return Ok(result);
             }
@@ -31,12 +31,12 @@ namespace RecipeBook_ASP.NET.Controllers
         }
 
         [HttpGet("{ReceitaId}")]
-        public async Task<IActionResult> GetByReceitaId(int ReceitaId)
+        public async Task<IActionResult> GetByReceitaId(int receitaId)
         {
             try
             {
-                var result = await _repo.GetReceitaAsyncById(ReceitaId);
-                
+                var result = await _repo.GetReceitaAsyncById(receitaId, true);
+
                 return Ok(result);
             }
             catch (Exception ex)

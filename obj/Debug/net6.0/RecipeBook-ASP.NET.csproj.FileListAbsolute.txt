@@ -52,3 +52,7 @@ d:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\runtime
 d:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 d:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 d:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programação\Projetos\RecipeBook\RecipeBook-ASP.NET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
