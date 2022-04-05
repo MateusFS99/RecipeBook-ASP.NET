@@ -94,7 +94,7 @@ namespace RecipeBook_ASP.NET.Controllers
                     return NotFound();
                 _repo.Delete(ingrediente);
                 if (await _repo.SaveChangesAsync())
-                    return Ok("Deleted!");
+                    return Ok(new {message = "Deleted!"});
             }
             catch (Exception ex)
             {
