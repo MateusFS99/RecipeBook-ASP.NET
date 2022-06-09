@@ -49,7 +49,7 @@ namespace RecipeBook_ASP.NET.Data
 
             if (includeIngredientes)
                 query = query.Include(pe => pe.ingredientes).ThenInclude(ad => ad.ingrediente);
-            query = query.AsNoTracking().OrderBy(aluno => aluno.id).Where(aluno => aluno.id == receitaId);
+            query = query.AsNoTracking().OrderBy(ingrediente => ingrediente.id).Where(ingrediente => ingrediente.id == receitaId);
 
             return await query.FirstOrDefaultAsync();
         }
@@ -67,7 +67,7 @@ namespace RecipeBook_ASP.NET.Data
         {
             IQueryable<Ingrediente> query = _context.ingredientes;
 
-            query = query.AsNoTracking().OrderBy(aluno => aluno.id).Where(aluno => aluno.id == ingredienteId);
+            query = query.AsNoTracking().OrderBy(ingrediente => ingrediente.id).Where(ingrediente => ingrediente.id == ingredienteId);
 
             return await query.FirstOrDefaultAsync();
         }
