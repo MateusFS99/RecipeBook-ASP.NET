@@ -1,5 +1,3 @@
-[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook-ASP.NET)](https://github.com/MateusFS99/RecipeBook-ASP.NET/commits/main)
-
 <h1 align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/3565/3565418.png" width="32px" height="32px"> 
     Recipe Book - ASP.NET Core Backend 
@@ -19,6 +17,6 @@ The API has been documented using Swagger UI: http://localhost:5294/swagger/inde
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## License 📝
+## License ®️
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
